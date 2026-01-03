@@ -17,7 +17,7 @@ If you want to contact me, please leave me a message!
 
 
 **:mortar_board: Major**  
-+ `2018.03 ~ 2024.08` 한동대학교 생명과학, AI융합 복수전공
++ `2018.03 ~ 2024.08` 생명과학, AI융합 복수전공
 
 
 **:clipboard: Certificates**
