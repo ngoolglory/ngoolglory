@@ -10,7 +10,7 @@ If you want to contact me, please leave me a message!
 ## 👨‍💻About me
 
 **:books: Experience**
-+ `2025.02 ~ current` 폴스타 헬스케어 AI 연구원
++ `2025.02 ~ current` 폴스타헬스케어 AI 연구원
 + `2024.07 ~ 2025.01` SSAFY 12기
 + `2023.06 ~ 2023.08` 국립암센터 여름 학생 인턴(연구원) 12기
 + `2022.12 ~ 2023.12` 생물정보 연구실 학부 인턴
@@ -26,12 +26,6 @@ If you want to contact me, please leave me a message!
 + `2024.07` 빅데이터분석기사
 + `2024.06` 데이터분석 준전문가(ADsP, Advanced Data Analytics Semi-Professional)
 + `2024.06` SQL 개발자(SQLD, SQL Developer)
-
-
-## Skills & Tools 
-**⛏️ Data analysis**
-
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">  
 
 
 ## 🎖Ranking
